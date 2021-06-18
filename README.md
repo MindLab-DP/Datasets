@@ -23,7 +23,7 @@ This repository contains useful information of the most recent datasets in Digit
 
 The labels are imperfect.
 
-*Files*
+**Files**
 
 \[train/test\].csv
 
@@ -52,6 +52,7 @@ The labels are imperfect.
 1: benign tissue (stroma and epithelium combined)
 2: cancerous tissue (stroma and epithelium combined)
 
+---
 
 ### CAMELYON17
 
@@ -66,25 +67,31 @@ All ground truth annotations were carefully prepared under supervision of expert
 
 The data set for CAMELYON17 is collected from 5 medical centres in the Netherlands. WSI are TIFF images. Lesion-level annotations are provided as XML files.
 
+---
 
 ### TCGA-PRAD
 
 To-Do
 
+---
+
 ### Breast Cancer Semantic Segmentation
 
 To-Do
+
+---
 
 ### Gleason 2019
 
 Data used in this dataset consists of a set of tissue micro-array (TMA) images. Each TMA image is annotated in detail by several expert pathologists.
 
-![alt text](https://grand-challenge-public-prod.s3.amazonaws.com/i/2020/01/21/f9f06df6.png, "Gleason 2019")
 
 Objective:
 
 * Pixel-level Gleason grade prediction
 * Core-level Gleason score prediction
+
+---
 
 ### References:
 
