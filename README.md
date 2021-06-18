@@ -1,8 +1,8 @@
 # Histopathology Datasets
 
-![GitHub last commit](https://img.shields.io/github/last-commit/MindLab-DP/Datasets?style=plastic)
+![GitHub last commit](https://img.shields.io/github/last-commit/MindLab-DP/Datasets?style=flat)
 
-![GitHub](https://img.shields.io/github/license/MindLab-DP/Datasets?style=plastic)
+![GitHub](https://img.shields.io/github/license/MindLab-DP/Datasets?style=flat)
 
 This repository contains useful information of the most recent datasets in Digital Pathology.
 
