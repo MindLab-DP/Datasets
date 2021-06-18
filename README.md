@@ -11,11 +11,11 @@ This repository contains useful information of the most recent datasets in Digit
 
 | Name        | Size      | Link      | Cancer Type | Image Type  |
 | ----------- |-----------|-----------|-----------  |-----------  |
-| PANDA       |    `383 GB`       | Kaggle API: `kaggle competitions download -c prostate-cancer-grade-assessment` or [Kaggle](https://www.kaggle.com/c/prostate-cancer-grade-assessment/data) | Prostate Cancer | WSI and Masks|
-| CAMELYON17  |  `600 GB `        | [Google Drive](https://drive.google.com/drive/folders/0BzsdkU4jWx9BaXVHSXRJTnpLZU0?resourcekey=0-tyfGzeoOMAWlP_ogPt_4pw) or [Baidu Pan](https://pan.baidu.com/s/1mIzSewImtEisclPtTHGSyw#list/path=%2F) | Breast Cancer | WSI |
-| TCGA-PRAD   | `~600 GB` | [NCI GDC Portal](https://portal.gdc.cancer.gov/projects/TCGA-PRAD) | Prostate Cancer | WSI, WXS, RNA-Seq, miRNA-Seq, ATAC-Seq, Genotyping Array | 
+| PANDA       |    `383GB`       | Kaggle API: `kaggle competitions download -c prostate-cancer-grade-assessment` or [Kaggle](https://www.kaggle.com/c/prostate-cancer-grade-assessment/data) | Prostate Cancer | WSI and Masks|
+| CAMELYON17  |  `600GB `        | [Google Drive](https://drive.google.com/drive/folders/0BzsdkU4jWx9BaXVHSXRJTnpLZU0?resourcekey=0-tyfGzeoOMAWlP_ogPt_4pw) or [Baidu Pan](https://pan.baidu.com/s/1mIzSewImtEisclPtTHGSyw#list/path=%2F) | Breast Cancer | WSI |
+| TCGA-PRAD   | `600GB` | [NCI GDC Portal](https://portal.gdc.cancer.gov/projects/TCGA-PRAD) | Prostate Cancer | WSI, WXS, RNA-Seq, miRNA-Seq, ATAC-Seq, Genotyping Array | 
 | Breast Cancer Semantic Segmentation | `NA` | [GitHub](https://github.com/PathologyDataScience/CrowdsourcingDataset-Amgadetal2019) | Breast Cancer | ROI/WSI and Masks |
-| Gleason 2019 | `1.5 GB` | [Grand Challenge](https://gleason2019.grand-challenge.org/Register/) | Prostate Cancer | TMA and masks |
+| Gleason 2019 | `1.5GB` | [Grand Challenge](https://gleason2019.grand-challenge.org/Register/) | Prostate Cancer | TMA and masks |
 
 ### PANDA (Prostate cANcer graDe Assessment)
 
